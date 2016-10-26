@@ -1,0 +1,6 @@
+body {
+  background-image: url('../images/bg.gif');
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
